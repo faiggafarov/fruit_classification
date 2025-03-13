@@ -21,7 +21,7 @@ This project aims to classify fresh and rotten fruits using image processing tec
 ## 🖼 Conveyor System
 Below is an image of the conveyor system used in this project:
 
-![Conveyor System](conveyor.jpg)
+![Conveyor System](image/conveyor.jpg)
 
 ## 🚀 Installation & Usage
 ### Clone the Repository
@@ -36,7 +36,7 @@ The project requires a dataset of fresh and rotten fruits. You can either use an
 ## 📊 Prediction Results
 Below is an example of the fruit classification output:
 
-![Prediction Result](fruit_prediction.png)
+![Prediction Result](image/fruit_class.png)
 
 ## 📌 Future Improvements
 - Enhance model accuracy with deep learning techniques
