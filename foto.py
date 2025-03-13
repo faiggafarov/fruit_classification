@@ -17,7 +17,7 @@ predict_result = []
 
 # Assuming you've already uploaded the image 'alma.jpg'
 
-path = 'alma.jpg'
+path = 'apple.jpg'
 img = image.load_img(path, color_mode="rgb", target_size=(224, 224), interpolation="lanczos")
 img = image.img_to_array(img)
 img = np.expand_dims(img, axis=0)
@@ -45,5 +45,5 @@ else:
 
 plt.axis('off')
 plt.show()
-plt.savefig('fruit_prediction.png')
+plt.savefig('apple_prediction.png')
 os.remove(path)
