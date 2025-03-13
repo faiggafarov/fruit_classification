@@ -17,19 +17,6 @@ This project aims to classify fresh and rotten fruits using image processing tec
 - Matplotlib (for visualization)
 - Raspberry Pi (for hardware integration)
 
-## 📂 Project Structure
-```
-fruit_classification/
-│── datasets/           # Image dataset of fruits
-│── models/             # Trained models (if any)
-│── src/
-│   │── preprocessing.py # Image preprocessing scripts
-│   │── classification.py # Classification logic
-│   │── main.py          # Main script to run the project
-│── README.md          # Project documentation
-│── requirements.txt   # Dependencies
-│── images/            # Folder for storing images (conveyor & predictions)
-```
 
 ## 🖼 Conveyor System
 Below is an image of the conveyor system used in this project:
