@@ -34,7 +34,7 @@ cd fruit_classification
 The project requires a dataset of fresh and rotten fruits. You can either use an existing dataset or collect images for training the model.
 
 ### 🔍 Running Predictions
-To make predictions using the trained model, run the **fruit_detections.ipynb** notebook. This will load the model and classify the input fruit images.
+To make predictions using the trained model, run the **fruits_detections.ipynb** notebook. This will load the model and classify the input fruit images.
 
 ## 📊 Prediction Results
 Below is an example of the fruit classification output:
