@@ -27,7 +27,7 @@ Below is an image of the conveyor system used in this project:
 
 Below is the flow chart showing the general flow of the project. This chart explains the different stages of the project and how they are interconnected.
 
-![Flow Chart](image/flow_chart.png)
+![Flow Chart](image/flow_chart.jpg)
 
 ## 🚀 Installation & Usage
 ### Clone the Repository
